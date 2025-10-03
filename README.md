@@ -16,10 +16,10 @@ Tailwind CSS: For styling (loaded via CDN).
 JavaScript (Vanilla): For all interactive logic (mobile menu, modal, project carousel, smooth scrolling).
 Font Awesome: For all icons.
 
-Getting Started
+# Getting Started
 To run this project locally, simply save the content of index.html to a file named index.html on your machine and open it in any modern web browser.
 
-Structure
+# Structure
 This is a single-file application (index.html) containing all HTML, CSS (via Tailwind), and JavaScript necessary to run the page.
 
 HTML: Defines the layout, sections, and structural elements.
@@ -31,7 +31,7 @@ Toggling the mobile navigation menu.
 Managing the registration modal state.
 Enabling smooth scrolling for anchor links.
 
-Customization
+# Customization
 The primary colors and neon glow effect can be adjusted within the <style> block:
 Neon Glow: Modify the text-shadow rule in the .neon-glow class.
 Colors: Change the primary cyan color usages (e.g., bg-cyan-600, text-cyan-400) to your desired palette across the HTML body.
