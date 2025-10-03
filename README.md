@@ -1,4 +1,5 @@
-Code4Dreamz Collaboration Hub
+# Code4Dreamz Collaboration Hub
+
 This repository contains the front-end code for the Code4Dreamz Innovation and Collaboration Platform. The application is a single-page marketing and feature showcase site designed with a dark, modern aesthetic using Tailwind CSS.
 
 Features
