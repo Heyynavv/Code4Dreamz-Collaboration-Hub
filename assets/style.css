@@ -1,0 +1,24 @@
+ 
+        /* Use Inter font and set a dark background */
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #0d1117; /* GitHub Dark Mode background */
+            color: #c9d1d9; /* Light text color */
+        }
+        /* Adjusted for less intense radiance */
+        .neon-glow {
+            text-shadow: 0 0 2px #0ff, 0 0 4px #0ff, 0 0 8px #0ff; 
+        }
+        .card-bg {
+            background-color: #161b22; /* Slightly lighter card background */
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .card-bg:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0, 255, 255, 0.2);
+        }
+        /* Style for the Modal Backdrop/Overlay */
+        .modal-overlay {
+            background-color: rgba(0, 0, 0, 0.8);
+            backdrop-filter: blur(5px);
+        }
